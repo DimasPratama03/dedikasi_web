@@ -85,7 +85,7 @@
       <h2>Denah Pengabdi Kangsa Pertiwi (DEDIKASI)
         merupakan organisasi yang bergerak di bidang
         pengabdian masyarakat.</h2>
-      <a href="{{ route('login') }}" target="_blank" class="btn-get-started">LOGIN</a>
+      <a href="{{ route('login') }}"class="btn-get-started">LOGIN</a>
     </div>
   </section><!-- #hero -->
 
